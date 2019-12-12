@@ -9,3 +9,15 @@ C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.
 C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csproj.CopyComplete
 C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.exe
 C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.pdb
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.exe.config
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.exe
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.pdb
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\System.ValueTuple.dll
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\McMaster.Extensions.CommandLineUtils.xml
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\bin\Debug\System.ValueTuple.xml
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csproj.CopyComplete
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.exe
+C:\Users\Kasper\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.pdb

@@ -172,9 +172,24 @@ namespace PictureEncode
                             return;
                         }
 
-                        while (reader.BaseStream.Position != reader.BaseStream.Length)
+
+                        int whitespaceCount = 0;
+                        int bytesWritten = 0;
+                        while (reader.BaseStream.Position != reader.BaseStream.Length && bytesWritten != filesize)
                         {
-                            return;
+                            int read = reader.ReadByte();
+                            if(whitespaceCount == 4)
+                            {
+                                bytesWritten++;
+                                writer.Write((byte)read);
+                            }
+                            else
+                            {
+                                if(read == WHITESPACE)
+                                {
+                                    whitespaceCount++;
+                                }
+                            }
                         }
 
 
