@@ -1,0 +1,11 @@
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.exe.config
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.exe
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\PictureEncode.pdb
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\System.ValueTuple.dll
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\McMaster.Extensions.CommandLineUtils.xml
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\bin\Debug\System.ValueTuple.xml
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csprojAssemblyReference.cache
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.csproj.CopyComplete
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.exe
+C:\Users\kaspe\source\repos\PictureEncode\PictureEncode\obj\Debug\PictureEncode.pdb
